@@ -1,4 +1,5 @@
 ### Hi there 👋
+![My profile](https://avatars.githubusercontent.com/u/79020177?v=4)
 
 I'm currently working as a Juinor software engineer at Berarkrays
 
