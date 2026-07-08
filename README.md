@@ -1,30 +1,148 @@
-### Hi there 👋
+# Hi there 👋 I'm Surya K S
 
-I'm currently working as a Juinor software engineer at Berarkrays
+## 🚀 Senior Full Stack Software Developer
 
-Skillset 👨🏻‍💻
-Next JS, React, Node, TailwindCSS, Mongo, Socket.io, Redis.
-Deployments ☁️
-Vercel, DigitalOcean
+I'm a **Senior Full Stack Software Developer** with **4+ years of experience** building scalable web applications, enterprise software, and SaaS products using modern JavaScript technologies.
 
-Work Experiences 🗂
-<details>
-<summary>Berarkrays 📱 : (Aug 2022 - Now)</summary>
-👉🏻 Zervx Ride: Built Uber-like product's Admin panel using React JS using which the admins can manage drivers, users, and bookings of the rides and book a ride instantly, etc, Tech: React JS
-👉🏻 Zervx Website: Built a website for Zervx. I worked in next.js using the user interface. 
-👉🏻 Zervx user webApp: Built a user webApp is the perfect solution for all your ride needs. With user-friendly design and custom features like booking a ride, geolocation, location & fare calculation, payments, real-time tracking, and much more. It provides a complete end-to-end ride experience.
-  </details>
-<!--
-**SURYA-ks-coder/SURYA-ks-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy solving real-world problems through clean architecture, scalable backend systems, and intuitive user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- React Native
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Socket.IO
+- Redis
+
+### Database
+- MongoDB
+- MySQL
+
+### DevOps & Deployment
+- Vercel
+- DigitalOcean
+- GitHub
+- Git
+
+---
+
+## 💼 Experience
+
+### 🏢 Senior Software Developer | Loyaltri
+**Oct 2024 – Present**
+
+Working on enterprise HRM software and scalable SaaS applications.
+
+### Previous Roles
+
+**Software Developer | Loyaltri**
+*Oct 2023 – Oct 2024*
+
+**Junior Software Engineer | Berarkrays**
+*Aug 2022 – Sep 2023*
+
+**MERN Stack Intern | Srishti Innovative**
+*Dec 2021 – Jul 2022*
+
+---
+
+# 🚀 Featured Projects
+
+## 👨‍💼 HR Management System (Loyaltri)
+
+Developing and maintaining an enterprise HRM platform with:
+
+- Employee Management
+- Attendance & Leave Management
+- Payroll
+- Role-Based Access Control
+- Reports & Analytics
+- Real-time Notifications
+- Secure REST APIs
+
+**Tech Stack**
+
+React.js • Next.js • Node.js • Express.js • MongoDB • Socket.IO
+
+---
+
+## 🚖 Ride Hailing Platform
+
+Developed multiple modules including:
+
+- Admin Dashboard
+- Driver Management
+- User Management
+- Ride Booking
+- Live Ride Tracking
+- Fare Management
+- Online Payments
+- Responsive Website
+
+**Tech Stack**
+
+React.js • Next.js • Node.js • MongoDB
+
+---
+
+## 🍽️ Restaurant Management SaaS (Personal Project)
+
+Currently building a multi-tenant Restaurant Management System featuring:
+
+- POS Billing
+- QR Code Ordering
+- Kitchen Order Ticket (KOT)
+- Dashboard & Reports
+- Inventory Management
+- Table Management
+- Real-time Order Updates
+- Thermal Printer Integration
+- Role-Based Access Control
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • Socket.IO • Redis
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Microservices
+- Cloud Architecture
+- Performance Optimization
+- Docker
+- CI/CD
+
+---
+
+## 📈 GitHub Stats
+
+- 💻 4+ Years of Development Experience
+- 🚀 Full Stack JavaScript Developer
+- 📱 Web & Mobile Application Development
+- ☁️ SaaS Product Development
+- 🔄 Real-time Applications
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/suryaksdeveloper
+- 💻 GitHub: https://github.com/SURYA-ks-coder
+
+---
+
+⭐ **Passionate about building scalable web applications, enterprise software, and SaaS products using modern JavaScript technologies.**
